@@ -20,7 +20,7 @@ public final class TestPlugin extends SimplePlugin {
 	@Override
 	protected void onPluginStart() {
 
-		double bananas = 10 + 2;
+		double bananas = 11 + 2;
 		double apples = 15 * 2;
 		double result = (bananas + apples) / 3.50;
 
